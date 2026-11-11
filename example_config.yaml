@@ -23,5 +23,4 @@ steer: 0
 "input_dim": 128
 load_col:                       # (dict) The suffix of atomic files: (list) field names to be loaded.
     inter: [user_id, item_id, rating, timestamp]
-epochs: 2
 
