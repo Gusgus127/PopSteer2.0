@@ -2,7 +2,7 @@
 #SBATCH --job-name=popsteer
 #SBATCH --partition=gpu_a100
 #SBATCH --gpus=1
-#SBATCH --time=02:00:00
+#SBATCH --time=01:00:00
 #SBATCH --output=slurm_%j.out
 
 module load 2023
