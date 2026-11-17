@@ -13,3 +13,4 @@ venv/
 docs/
 settings.json
 __pycache__/
+slurm_*.out
